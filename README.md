@@ -1,10 +1,12 @@
-### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TOMMy-Net&show_icons=true&theme=radical)
 
-<div>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="44" height="44"/>
-</div>
+
+<h1 align="center">Hi, I'm <a href="https://t.me/Pixelhkgc">Tommy</a>!</h1>
+<h1 align="center">Welcome to my GitHub profile  <img align="center" src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="44" height="44"/> </h1>
+<p align="center">
+  <a href="https://github.com/edisonlee55"><img src="https://github-readme-stats.vercel.app/api?username=TOMMy-Net&hide_border=true&show_icons=true&theme=radical"></a>
+</p>
+
 <!--
 **TOMMy-Net/TOMMy-Net** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
